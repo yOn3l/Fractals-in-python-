@@ -22,7 +22,7 @@ tree.hideturtle()
 
 tree.setheading(90)
 
-tree.color('purple')
+tree.color('green')
 
 build_tree(tree, 50, 5, 30)
 
