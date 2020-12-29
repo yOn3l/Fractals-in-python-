@@ -1,7 +1,7 @@
 # Fractals-in-python-
 These are simple fractals made in python
 
-
+Inspired: <a href=https://github.com/ranon-rat/simpleFractalGolang>Fractal Golang</a>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img src=https://github.com/yOn3l/Fractals-in-python-/blob/main/fractal1.png>
@@ -13,4 +13,3 @@ These are simple fractals made in python
 <img src=https://github.com/yOn3l/Fractals-in-python-/blob/main/fractal3.png>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-inspired:https://github.com/ranon-rat/simpleFractalGolang
