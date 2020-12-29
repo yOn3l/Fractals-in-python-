@@ -1,5 +1,5 @@
 import turtle
-def koch_curve(t, interations, length, shortening_factor, angle):
+def koch_curve(t, iterations, length, shortening_factor, angle):
   if iterations == 0:
     t.forward(length)
   else:
